@@ -1,2 +1,5 @@
 # hello-world
-Sample gitbhub repository via hello-world tutorial
+
+Hello, humans!
+
+TD here, just trying out github to see what it can do
